@@ -1,11 +1,11 @@
 # ChatGPT_Trading_Bot
 
-This is the code for the "ChatGPT Trading Bot" Video by Siraj Raval on Youtube
+This is the code for the "ChatGPT Trading Bot"
 
 
 ## Overview
 
-This is the code for this video on Youtube by Siraj Raval on building a ChatGPT trading bot. First, a disclaimer - Do NOT invest any money in any type of trading bot or algorithmic engine that you are not willing to lose. I gave this trading bot $2000 because I was willing to lose $2000 to make a great video for my AI Wizards out there. The entire codebase is contained in a single iPython notebook file, first published by the FinRL team as an example. Inside the notebook, 5 steps are performed.
+This is the code for this video on Youtube on building a ChatGPT trading bot. First, a disclaimer - Do NOT invest any money in any type of trading bot or algorithmic engine that you are not willing to lose. I gave this trading bot $2000 because I was willing to lose $2000 to make a great video for my AI Wizards out there. The entire codebase is contained in a single iPython notebook file, first published by the FinRL team as an example. Inside the notebook, 5 steps are performed.
 
 1. Pull 30 days of trading data for (Insert your stock or crypto) with Yahoo Finance Downloader API
 2. Create a simulated trading environment using real trading data with FinRL
